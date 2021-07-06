@@ -1,0 +1,97 @@
+header {
+  height:90px ;
+  background-color:#1C1C21; 
+}
+
+h1 {
+  float:left;
+  padding-left:15px;
+  font-size: 35px;
+  
+}
+
+h1, a {
+  font-family: Helvetica, Arial, sans-serif;
+  color:#E8E9ED;
+}
+
+h2 {
+  font-size:32px;
+  color:#B50A1A;
+  
+}
+
+h3 {
+  color: #48BABD;
+  float: left;
+  padding-left: 8px;
+  padding-bottom: 15px;
+}
+
+
+nav {
+  float:right;
+  font-size:25px;
+  padding-top: 28px;
+  padding-right:15px;
+  text-transform: uppercase;
+  
+  }
+
+a {
+  font-size: 22px;
+  text-decoration: none;
+}
+
+a:link    { color: #48BABD; }
+a:visited { color: #AB8E49; }
+a:hover   { color: #FFAC00; }
+a:active  { color: #B50A1A; }
+
+img {
+  padding-top:25px;
+}
+
+p {
+  font-size: 22px;
+}
+
+.round {
+  border-radius: 60px;
+}
+
+.center {
+  text-align:center;
+}
+
+/* helps to center paragraphs*/
+.wrapper {
+	width: 700px;
+	margin: auto;
+}
+
+/* fixes my list issues! made them look cleaner */
+.list {
+  text-align: left;
+  width: 480px;
+}
+
+/* helps to space out paragraphs*/
+
+.top {
+  padding-top: 15px;
+}
+
+
+/*brings the dots back inside*/
+li {
+  font-size: 20px;
+  list-style-position: inside;
+}
+
+
+footer {
+  height:50px;
+  background-color:#1C1C21;
+  
+}
