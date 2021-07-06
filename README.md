@@ -2,4 +2,4 @@
 ___
 
 >My Portfolio! Enjoy :) Feedback is wanted! 
->[Portfolio Link](https://nathanboyd559.github.io/Portfolio/)
+>[My Portfolio](https://nathanboyd559.github.io/Portfolio/)
